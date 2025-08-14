@@ -55,3 +55,15 @@
           </a>
         </p>
 </details>
+    <details open>
+  <summary><h3>stasistic</h3></summary>
+        <p align="center">
+          <a href="https://github.com/Sztrinka/">
+          <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=Sztrinka&show_icons=true&theme=gruvbox&hide_border=true" />
+          <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=Sztrinka&theme=gruvbox&hide_border=true" />
+          </a>
+       </p>
+     <br>
+     </samp>
+  </div>    
+</details>
