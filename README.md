@@ -17,7 +17,7 @@
       <a href="https://www.linkedin.com/in/micaela-daiana-quiroga-sztrinka-a13b83292/" target="blank"><img align="center"
          src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
          alt="azzar" height="30"/></a>
-      <a href="mailto:micaa.sztrinka@gmail.com" target="blank"><img align="center"
+      <a href="mailto:micaa.sztrinka@gmail.com" target="_blank"><img align="center"
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
     </p>
